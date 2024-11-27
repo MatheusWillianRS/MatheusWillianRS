@@ -9,6 +9,8 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img  align="center" alt="Matheus-Python" height="30" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="center" alt="Matheus-SQLServer" height="30" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />       
 <img align="center" alt="Matheus-Js" height="30" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
 <img align="center" alt="Matheus-Figma" height="30" width="40"
